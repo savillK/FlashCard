@@ -1,5 +1,9 @@
 # FlashCard
 
+FlashCard is a simple studying app that allows users to create and delete their own decks and cards and revise them for studying.
+
+This project was built using Swift 4 and Xcode 9.4, while also utilizing the storyboard and core data.
+
 Screenshots
 
 <img width="296" alt="Screen Shot 2019-08-19 at 5 09 15 PM" src="https://user-images.githubusercontent.com/38045454/64067011-1dda9f80-cbef-11e9-941e-4652f074e06a.png">
